@@ -1,0 +1,282 @@
+[23-Nov-2025 09:06:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.loan_amount' in 'SELECT' in /home/findppsz/public_html/finance/admin/dashboard.php:51
+Stack trace:
+#0 /home/findppsz/public_html/finance/admin/dashboard.php(51): PDOStatement->execute()
+#1 {main}
+  thrown in /home/findppsz/public_html/finance/admin/dashboard.php on line 51
+[23-Nov-2025 09:08:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.loan_amount' in 'SELECT' in /home/findppsz/public_html/finance/admin/dashboard.php:56
+Stack trace:
+#0 /home/findppsz/public_html/finance/admin/dashboard.php(56): PDOStatement->execute()
+#1 {main}
+  thrown in /home/findppsz/public_html/finance/admin/dashboard.php on line 56
+[15-Jan-2026 12:13:57 Asia/Phnom_Penh] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'biz_id' in 'WHERE' in /home/findppsz/public_html/finance/admin/loan_add.php:21
+Stack trace:
+#0 /home/findppsz/public_html/finance/admin/loan_add.php(21): PDOStatement->execute()
+#1 {main}
+  thrown in /home/findppsz/public_html/finance/admin/loan_add.php on line 21
+[15-Jan-2026 13:22:13 Asia/Phnom_Penh] PHP Warning:  Undefined variable $r in /home/findppsz/public_html/finance/admin/loans.php on line 153
+[15-Jan-2026 13:22:13 Asia/Phnom_Penh] PHP Warning:  Trying to access array offset on value of type null in /home/findppsz/public_html/finance/admin/loans.php on line 153
+[15-Jan-2026 13:22:17 Asia/Phnom_Penh] PHP Warning:  Undefined variable $r in /home/findppsz/public_html/finance/admin/loans.php on line 153
+[15-Jan-2026 13:22:17 Asia/Phnom_Penh] PHP Warning:  Trying to access array offset on value of type null in /home/findppsz/public_html/finance/admin/loans.php on line 153
+[15-Jan-2026 13:22:21 Asia/Phnom_Penh] PHP Warning:  Undefined variable $r in /home/findppsz/public_html/finance/admin/loans.php on line 153
+[15-Jan-2026 13:22:21 Asia/Phnom_Penh] PHP Warning:  Trying to access array offset on value of type null in /home/findppsz/public_html/finance/admin/loans.php on line 153
+[15-Jan-2026 13:23:14 Asia/Phnom_Penh] PHP Warning:  Undefined variable $r in /home/findppsz/public_html/finance/admin/loans.php on line 153
+[15-Jan-2026 13:23:14 Asia/Phnom_Penh] PHP Warning:  Trying to access array offset on value of type null in /home/findppsz/public_html/finance/admin/loans.php on line 153
+[15-Jan-2026 13:23:16 Asia/Phnom_Penh] PHP Warning:  Undefined variable $r in /home/findppsz/public_html/finance/admin/loans.php on line 153
+[15-Jan-2026 13:23:16 Asia/Phnom_Penh] PHP Warning:  Trying to access array offset on value of type null in /home/findppsz/public_html/finance/admin/loans.php on line 153
+[15-Jan-2026 13:23:17 Asia/Phnom_Penh] PHP Warning:  Undefined variable $r in /home/findppsz/public_html/finance/admin/loans.php on line 153
+[15-Jan-2026 13:23:17 Asia/Phnom_Penh] PHP Warning:  Trying to access array offset on value of type null in /home/findppsz/public_html/finance/admin/loans.php on line 153
+[15-Jan-2026 13:23:18 Asia/Phnom_Penh] PHP Warning:  Undefined variable $r in /home/findppsz/public_html/finance/admin/loans.php on line 153
+[15-Jan-2026 13:23:18 Asia/Phnom_Penh] PHP Warning:  Trying to access array offset on value of type null in /home/findppsz/public_html/finance/admin/loans.php on line 153
+[15-Jan-2026 13:23:19 Asia/Phnom_Penh] PHP Warning:  Undefined variable $r in /home/findppsz/public_html/finance/admin/loans.php on line 153
+[15-Jan-2026 13:23:19 Asia/Phnom_Penh] PHP Warning:  Trying to access array offset on value of type null in /home/findppsz/public_html/finance/admin/loans.php on line 153
+[15-Jan-2026 13:23:20 Asia/Phnom_Penh] PHP Warning:  Undefined variable $r in /home/findppsz/public_html/finance/admin/loans.php on line 153
+[15-Jan-2026 13:23:20 Asia/Phnom_Penh] PHP Warning:  Trying to access array offset on value of type null in /home/findppsz/public_html/finance/admin/loans.php on line 153
+[15-Jan-2026 17:18:37 Asia/Phnom_Penh] PHP Fatal error:  Uncaught Error: Call to undefined function h2() in /home/findppsz/public_html/finance/admin/loan_add.php:190
+Stack trace:
+#0 {main}
+  thrown in /home/findppsz/public_html/finance/admin/loan_add.php on line 190
+[15-Jan-2026 17:19:05 Asia/Phnom_Penh] PHP Fatal error:  Uncaught Error: Call to undefined function h2() in /home/findppsz/public_html/finance/admin/loan_add.php:190
+Stack trace:
+#0 {main}
+  thrown in /home/findppsz/public_html/finance/admin/loan_add.php on line 190
+[15-Jan-2026 17:19:27 Asia/Phnom_Penh] PHP Fatal error:  Uncaught Error: Call to undefined function h2() in /home/findppsz/public_html/finance/admin/loan_add.php:190
+Stack trace:
+#0 {main}
+  thrown in /home/findppsz/public_html/finance/admin/loan_add.php on line 190
+[21-Jan-2026 11:31:21 Asia/Phnom_Penh] PHP Warning:  Undefined variable $user_role in /home/findppsz/public_html/finance/includes/navbar.php on line 240
+[21-Jan-2026 16:34:37 Asia/Phnom_Penh] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '
+            COALESCE(ag.total_due,0) AS total_due,
+            COALESCE(ag...' at line 10 in /home/findppsz/public_html/finance/admin/customer_view.php:174
+Stack trace:
+#0 /home/findppsz/public_html/finance/admin/customer_view.php(174): PDOStatement->execute()
+#1 {main}
+  thrown in /home/findppsz/public_html/finance/admin/customer_view.php on line 174
+[22-Jan-2026 11:19:10 Asia/Phnom_Penh] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '
+            COALESCE(ag.total_due,0) AS total_due,
+            COALESCE(ag...' at line 10 in /home/findppsz/public_html/finance/admin/customer_view.php:174
+Stack trace:
+#0 /home/findppsz/public_html/finance/admin/customer_view.php(174): PDOStatement->execute()
+#1 {main}
+  thrown in /home/findppsz/public_html/finance/admin/customer_view.php on line 174
+[22-Jan-2026 11:19:33 Asia/Phnom_Penh] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '
+            COALESCE(ag.total_due,0) AS total_due,
+            COALESCE(ag...' at line 10 in /home/findppsz/public_html/finance/admin/customer_view.php:174
+Stack trace:
+#0 /home/findppsz/public_html/finance/admin/customer_view.php(174): PDOStatement->execute()
+#1 {main}
+  thrown in /home/findppsz/public_html/finance/admin/customer_view.php on line 174
+[22-Jan-2026 08:05:49 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /home/findppsz/public_html/finance/admin/customers.php on line 705
+[22-Jan-2026 15:21:39 Asia/Phnom_Penh] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '
+            COALESCE(ag.total_due,0) AS total_due,
+            COALESCE(ag...' at line 10 in /home/findppsz/public_html/finance/admin/customer_view.php:174
+Stack trace:
+#0 /home/findppsz/public_html/finance/admin/customer_view.php(174): PDOStatement->execute()
+#1 {main}
+  thrown in /home/findppsz/public_html/finance/admin/customer_view.php on line 174
+[24-Jan-2026 11:55:46 Asia/Phnom_Penh] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM loan_schedules s
+    JOIN loans l ON l.id = s.loan_id
+    JOIN customers...' at line 17 in /home/findppsz/public_html/finance/admin/payment_collection.php:245
+Stack trace:
+#0 /home/findppsz/public_html/finance/admin/payment_collection.php(245): PDOStatement->execute()
+#1 {main}
+  thrown in /home/findppsz/public_html/finance/admin/payment_collection.php on line 245
+[24-Jan-2026 12:12:49 Asia/Phnom_Penh] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM loan_schedules s
+    JOIN loans l ON l.id = s.loan_id
+    JOIN customers...' at line 17 in /home/findppsz/public_html/finance/admin/payment_collection.php:245
+Stack trace:
+#0 /home/findppsz/public_html/finance/admin/payment_collection.php(245): PDOStatement->execute()
+#1 {main}
+  thrown in /home/findppsz/public_html/finance/admin/payment_collection.php on line 245
+[24-Jan-2026 12:34:32 Asia/Phnom_Penh] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM loan_schedules s
+    JOIN loans l ON l.id = s.loan_id
+    JOIN customers...' at line 17 in /home/findppsz/public_html/finance/admin/payment_collection.php:245
+Stack trace:
+#0 /home/findppsz/public_html/finance/admin/payment_collection.php(245): PDOStatement->execute()
+#1 {main}
+  thrown in /home/findppsz/public_html/finance/admin/payment_collection.php on line 245
+[24-Jan-2026 12:34:43 Asia/Phnom_Penh] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM loan_schedules s
+    JOIN loans l ON l.id = s.loan_id
+    JOIN customers...' at line 17 in /home/findppsz/public_html/finance/admin/payment_collection.php:245
+Stack trace:
+#0 /home/findppsz/public_html/finance/admin/payment_collection.php(245): PDOStatement->execute()
+#1 {main}
+  thrown in /home/findppsz/public_html/finance/admin/payment_collection.php on line 245
+[24-Jan-2026 12:34:53 Asia/Phnom_Penh] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM loan_schedules s
+    JOIN loans l ON l.id = s.loan_id
+    JOIN customers...' at line 17 in /home/findppsz/public_html/finance/admin/payment_collection.php:245
+Stack trace:
+#0 /home/findppsz/public_html/finance/admin/payment_collection.php(245): PDOStatement->execute()
+#1 {main}
+  thrown in /home/findppsz/public_html/finance/admin/payment_collection.php on line 245
+[24-Jan-2026 12:51:13 Asia/Phnom_Penh] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM loan_schedules s
+    JOIN loans l ON l.id = s.loan_id
+    JOIN customers...' at line 17 in /home/findppsz/public_html/finance/admin/payment_collection.php:245
+Stack trace:
+#0 /home/findppsz/public_html/finance/admin/payment_collection.php(245): PDOStatement->execute()
+#1 {main}
+  thrown in /home/findppsz/public_html/finance/admin/payment_collection.php on line 245
+[24-Jan-2026 12:54:05 Asia/Phnom_Penh] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM loan_schedules s
+    JOIN loans l ON l.id = s.loan_id
+    JOIN customers...' at line 17 in /home/findppsz/public_html/finance/admin/payment_collection.php:245
+Stack trace:
+#0 /home/findppsz/public_html/finance/admin/payment_collection.php(245): PDOStatement->execute()
+#1 {main}
+  thrown in /home/findppsz/public_html/finance/admin/payment_collection.php on line 245
+[25-Jan-2026 09:29:38 Asia/Phnom_Penh] PHP Warning:  Undefined variable $usd in /home/findppsz/public_html/finance/admin/dashboard.php on line 620
+[25-Jan-2026 09:29:38 Asia/Phnom_Penh] PHP Warning:  Undefined variable $khr in /home/findppsz/public_html/finance/admin/dashboard.php on line 624
+[25-Jan-2026 09:29:38 Asia/Phnom_Penh] PHP Warning:  Undefined variable $usd in /home/findppsz/public_html/finance/admin/dashboard.php on line 630
+[25-Jan-2026 09:29:38 Asia/Phnom_Penh] PHP Warning:  Undefined variable $khr in /home/findppsz/public_html/finance/admin/dashboard.php on line 631
+[25-Jan-2026 09:29:38 Asia/Phnom_Penh] PHP Warning:  Undefined variable $styType in /home/findppsz/public_html/finance/admin/dashboard.php on line 635
+[25-Jan-2026 09:29:38 Asia/Phnom_Penh] PHP Warning:  Trying to access array offset on value of type null in /home/findppsz/public_html/finance/admin/dashboard.php on line 635
+[25-Jan-2026 09:29:38 Asia/Phnom_Penh] PHP Warning:  Undefined variable $pct in /home/findppsz/public_html/finance/admin/dashboard.php on line 635
+[25-Jan-2026 03:51:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/findppsz/public_html/finance/admin/dashboard.php on line 758
+[27-Jan-2026 04:04:18 UTC] PHP Parse error:  syntax error, unexpected token "else" in /home/findppsz/public_html/finance/admin/loans.php on line 655
+[27-Jan-2026 16:12:20 Asia/Phnom_Penh] PHP Fatal error:  Uncaught Error: Call to undefined function fin_photo_url() in /home/findppsz/public_html/finance/admin/payment_collection.php:564
+Stack trace:
+#0 {main}
+  thrown in /home/findppsz/public_html/finance/admin/payment_collection.php on line 564
+[27-Jan-2026 16:37:21 Asia/Phnom_Penh] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '
+            COALESCE(ag.total_due,0) AS total_due,
+            COALESCE(ag...' at line 10 in /home/findppsz/public_html/finance/admin/customer_view.php:174
+Stack trace:
+#0 /home/findppsz/public_html/finance/admin/customer_view.php(174): PDOStatement->execute()
+#1 {main}
+  thrown in /home/findppsz/public_html/finance/admin/customer_view.php on line 174
+[27-Jan-2026 17:01:54 Asia/Phnom_Penh] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '
+            COALESCE(ag.total_due,0) AS total_due,
+            COALESCE(ag...' at line 10 in /home/findppsz/public_html/finance/admin/customer_view.php:174
+Stack trace:
+#0 /home/findppsz/public_html/finance/admin/customer_view.php(174): PDOStatement->execute()
+#1 {main}
+  thrown in /home/findppsz/public_html/finance/admin/customer_view.php on line 174
+[27-Jan-2026 19:56:37 Asia/Phnom_Penh] PHP Fatal error:  Cannot redeclare fin_table_exists() (previously declared in /home/findppsz/public_html/finance/admin/dashboard.php:13) in /home/findppsz/public_html/finance/includes/navbar.php on line 22
+[27-Jan-2026 19:56:44 Asia/Phnom_Penh] PHP Fatal error:  Cannot redeclare fin_table_exists() (previously declared in /home/findppsz/public_html/finance/admin/dashboard.php:13) in /home/findppsz/public_html/finance/includes/navbar.php on line 22
+[28-Jan-2026 19:33:14 Asia/Phnom_Penh] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`findppsz_finance`.`loans`, CONSTRAINT `loans_ibfk_1` FOREIGN KEY (`customer_id`) REFERENCES `customers` (`id`)) in /home/findppsz/public_html/finance/admin/customer_delete.php:18
+Stack trace:
+#0 /home/findppsz/public_html/finance/admin/customer_delete.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home/findppsz/public_html/finance/admin/customer_delete.php on line 18
+[29-Jan-2026 11:15:05 Asia/Phnom_Penh] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`findppsz_finance`.`loans`, CONSTRAINT `loans_ibfk_1` FOREIGN KEY (`customer_id`) REFERENCES `customers` (`id`)) in /home/findppsz/public_html/finance/admin/customer_delete.php:18
+Stack trace:
+#0 /home/findppsz/public_html/finance/admin/customer_delete.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home/findppsz/public_html/finance/admin/customer_delete.php on line 18
+[29-Jan-2026 12:52:55 Asia/Phnom_Penh] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`findppsz_finance`.`loan_payments`, CONSTRAINT `loan_payments_ibfk_1` FOREIGN KEY (`loan_id`) REFERENCES `loans` (`id`)) in /home/findppsz/public_html/finance/admin/loan_delete.php:17
+Stack trace:
+#0 /home/findppsz/public_html/finance/admin/loan_delete.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/findppsz/public_html/finance/admin/loan_delete.php on line 17
+[15-Jun-2026 17:56:00 Asia/Phnom_Penh] PHP Fatal error:  Uncaught Error: Call to undefined function fin_bulk_calculate_ratings() in /home/findppsz/public_html/finance/admin/customers.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/findppsz/public_html/finance/admin/customers.php on line 296
+[15-Jun-2026 17:56:36 Asia/Phnom_Penh] PHP Fatal error:  Uncaught Error: Call to undefined function fin_bulk_calculate_ratings() in /home/findppsz/public_html/finance/admin/customers.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/findppsz/public_html/finance/admin/customers.php on line 296
+[15-Jun-2026 17:56:44 Asia/Phnom_Penh] PHP Fatal error:  Uncaught Error: Call to undefined function fin_bulk_calculate_ratings() in /home/findppsz/public_html/finance/admin/customers.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/findppsz/public_html/finance/admin/customers.php on line 296
+[16-Jun-2026 06:29:12 UTC] PHP Warning:  preg_replace(): Unknown modifier ']' in /home/findppsz/public_html/finance/admin/customer_id_ocr.php on line 85
+[16-Jun-2026 06:29:12 UTC] PHP Warning:  preg_replace(): Compilation failed: missing terminating ] for character class at offset 34 in /home/findppsz/public_html/finance/admin/customer_id_ocr.php on line 110
+[16-Jun-2026 06:34:12 UTC] PHP Warning:  preg_replace(): Unknown modifier ']' in /home/findppsz/public_html/finance/admin/customer_id_ocr.php on line 85
+[16-Jun-2026 06:34:12 UTC] PHP Warning:  preg_replace(): Compilation failed: missing terminating ] for character class at offset 34 in /home/findppsz/public_html/finance/admin/customer_id_ocr.php on line 110
+[16-Jun-2026 15:51:23 Asia/Phnom_Penh] PHP Fatal error:  Uncaught Error: Call to undefined function fin_http_request() in /home/findppsz/public_html/finance/admin/ajax_telegram_recent.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/findppsz/public_html/finance/admin/ajax_telegram_recent.php on line 54
+[19-Jun-2026 10:47:11 Asia/Phnom_Penh] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'photo_path' in 'SELECT' in /home/findppsz/public_html/finance/includes/navbar.php:28
+Stack trace:
+#0 /home/findppsz/public_html/finance/includes/navbar.php(28): PDOStatement->execute()
+#1 /home/findppsz/public_html/finance/admin/dashboard.php(890): include('/home/findppsz/...')
+#2 {main}
+  thrown in /home/findppsz/public_html/finance/includes/navbar.php on line 28
+[19-Jun-2026 10:47:18 Asia/Phnom_Penh] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'photo_path' in 'SELECT' in /home/findppsz/public_html/finance/includes/navbar.php:28
+Stack trace:
+#0 /home/findppsz/public_html/finance/includes/navbar.php(28): PDOStatement->execute()
+#1 /home/findppsz/public_html/finance/admin/dashboard.php(890): include('/home/findppsz/...')
+#2 {main}
+  thrown in /home/findppsz/public_html/finance/includes/navbar.php on line 28
+[19-Jun-2026 10:47:35 Asia/Phnom_Penh] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'photo_path' in 'SELECT' in /home/findppsz/public_html/finance/includes/navbar.php:28
+Stack trace:
+#0 /home/findppsz/public_html/finance/includes/navbar.php(28): PDOStatement->execute()
+#1 /home/findppsz/public_html/finance/admin/dashboard.php(890): include('/home/findppsz/...')
+#2 {main}
+  thrown in /home/findppsz/public_html/finance/includes/navbar.php on line 28
+[19-Jun-2026 10:47:58 Asia/Phnom_Penh] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'photo_path' in 'SELECT' in /home/findppsz/public_html/finance/includes/navbar.php:28
+Stack trace:
+#0 /home/findppsz/public_html/finance/includes/navbar.php(28): PDOStatement->execute()
+#1 /home/findppsz/public_html/finance/admin/dashboard.php(890): include('/home/findppsz/...')
+#2 {main}
+  thrown in /home/findppsz/public_html/finance/includes/navbar.php on line 28
+[19-Jun-2026 10:48:34 Asia/Phnom_Penh] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'photo_path' in 'SELECT' in /home/findppsz/public_html/finance/includes/navbar.php:28
+Stack trace:
+#0 /home/findppsz/public_html/finance/includes/navbar.php(28): PDOStatement->execute()
+#1 /home/findppsz/public_html/finance/admin/dashboard.php(890): include('/home/findppsz/...')
+#2 {main}
+  thrown in /home/findppsz/public_html/finance/includes/navbar.php on line 28
+[19-Jun-2026 10:48:37 Asia/Phnom_Penh] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'photo_path' in 'SELECT' in /home/findppsz/public_html/finance/includes/navbar.php:28
+Stack trace:
+#0 /home/findppsz/public_html/finance/includes/navbar.php(28): PDOStatement->execute()
+#1 /home/findppsz/public_html/finance/admin/dashboard.php(890): include('/home/findppsz/...')
+#2 {main}
+  thrown in /home/findppsz/public_html/finance/includes/navbar.php on line 28
+[19-Jun-2026 10:48:38 Asia/Phnom_Penh] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'photo_path' in 'SELECT' in /home/findppsz/public_html/finance/includes/navbar.php:28
+Stack trace:
+#0 /home/findppsz/public_html/finance/includes/navbar.php(28): PDOStatement->execute()
+#1 /home/findppsz/public_html/finance/admin/dashboard.php(890): include('/home/findppsz/...')
+#2 {main}
+  thrown in /home/findppsz/public_html/finance/includes/navbar.php on line 28
+[19-Jun-2026 10:49:40 Asia/Phnom_Penh] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'photo_path' in 'SELECT' in /home/findppsz/public_html/finance/includes/navbar.php:28
+Stack trace:
+#0 /home/findppsz/public_html/finance/includes/navbar.php(28): PDOStatement->execute()
+#1 /home/findppsz/public_html/finance/admin/dashboard.php(890): include('/home/findppsz/...')
+#2 {main}
+  thrown in /home/findppsz/public_html/finance/includes/navbar.php on line 28
+[19-Jun-2026 10:50:41 Asia/Phnom_Penh] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'photo_path' in 'SELECT' in /home/findppsz/public_html/finance/includes/navbar.php:28
+Stack trace:
+#0 /home/findppsz/public_html/finance/includes/navbar.php(28): PDOStatement->execute()
+#1 /home/findppsz/public_html/finance/admin/dashboard.php(890): include('/home/findppsz/...')
+#2 {main}
+  thrown in /home/findppsz/public_html/finance/includes/navbar.php on line 28
+[28-Jul-2026 11:34:11 Asia/Phnom_Penh] PHP Fatal error:  Uncaught Error: Call to undefined function fin_format_date_kh() in /home/findppsz/public_html/finance/admin/loans.php:1076
+Stack trace:
+#0 {main}
+  thrown in /home/findppsz/public_html/finance/admin/loans.php on line 1076
+[28-Jul-2026 11:34:43 Asia/Phnom_Penh] PHP Fatal error:  Uncaught Error: Call to undefined function fin_format_date_kh() in /home/findppsz/public_html/finance/admin/loans.php:1076
+Stack trace:
+#0 {main}
+  thrown in /home/findppsz/public_html/finance/admin/loans.php on line 1076
+[28-Jul-2026 11:35:41 Asia/Phnom_Penh] PHP Fatal error:  Uncaught Error: Call to undefined function fin_format_date_kh() in /home/findppsz/public_html/finance/admin/loans.php:1076
+Stack trace:
+#0 {main}
+  thrown in /home/findppsz/public_html/finance/admin/loans.php on line 1076
+[28-Jul-2026 11:36:14 Asia/Phnom_Penh] PHP Fatal error:  Uncaught Error: Call to undefined function fin_format_date_kh() in /home/findppsz/public_html/finance/admin/loans.php:1076
+Stack trace:
+#0 {main}
+  thrown in /home/findppsz/public_html/finance/admin/loans.php on line 1076
+[28-Jul-2026 11:36:25 Asia/Phnom_Penh] PHP Fatal error:  Uncaught Error: Call to undefined function fin_format_date_kh() in /home/findppsz/public_html/finance/admin/loans.php:1076
+Stack trace:
+#0 {main}
+  thrown in /home/findppsz/public_html/finance/admin/loans.php on line 1076
+[28-Jul-2026 11:36:27 Asia/Phnom_Penh] PHP Fatal error:  Uncaught Error: Call to undefined function fin_format_date_kh() in /home/findppsz/public_html/finance/admin/loans.php:1076
+Stack trace:
+#0 {main}
+  thrown in /home/findppsz/public_html/finance/admin/loans.php on line 1076
+[28-Jul-2026 11:37:09 Asia/Phnom_Penh] PHP Fatal error:  Uncaught Error: Call to undefined function fin_format_date_kh() in /home/findppsz/public_html/finance/admin/loans.php:1076
+Stack trace:
+#0 {main}
+  thrown in /home/findppsz/public_html/finance/admin/loans.php on line 1076
+[28-Jul-2026 11:37:56 Asia/Phnom_Penh] PHP Fatal error:  Uncaught Error: Call to undefined function fin_format_date_kh() in /home/findppsz/public_html/finance/admin/loans.php:1076
+Stack trace:
+#0 {main}
+  thrown in /home/findppsz/public_html/finance/admin/loans.php on line 1076
+[28-Jul-2026 11:38:02 Asia/Phnom_Penh] PHP Fatal error:  Uncaught Error: Call to undefined function fin_format_date_kh() in /home/findppsz/public_html/finance/admin/loans.php:1076
+Stack trace:
+#0 {main}
+  thrown in /home/findppsz/public_html/finance/admin/loans.php on line 1076
+[28-Jul-2026 12:03:06 Asia/Phnom_Penh] PHP Fatal error:  Uncaught Error: Call to undefined function fin_format_money_with_symbol() in /home/findppsz/public_html/finance/admin/loan_schedule_print.php:328
+Stack trace:
+#0 {main}
+  thrown in /home/findppsz/public_html/finance/admin/loan_schedule_print.php on line 328

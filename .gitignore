@@ -1,0 +1,6 @@
+admin/gemini_api_key.txt
+*.sql
+backups/
+tmp/
+scratch/
+outputs/
